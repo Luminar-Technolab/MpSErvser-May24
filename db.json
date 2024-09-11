@@ -1,0 +1,55 @@
+{
+  "allVideos": [
+    {
+      "id": "69ef",
+      "caption": "Leo Trailer",
+      "url": "https://tse1.mm.bing.net/th?id=OIP.5os5rWBb-JK5e_n6QCUsFgHaEc&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/2W2QC_1TDDA"
+    },
+    {
+      "id": "e3d3",
+      "caption": "Avesham Trailer",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.Dqea5Yd6mJFWz_IZaRReLwAAAA&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "9afd",
+      "caption": "Vazha Trailer",
+      "url": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/06/01/271188-vaazha.jpg?itok=mjB3Ilr7",
+      "link": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "4efb",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "cba5",
+          "caption": "CSS",
+          "url": "https://1.bp.blogspot.com/-m4TTXg7Oof4/XlJFOC9iQmI/AAAAAAAAACc/gjl4x37MVFIH7th8Y1xmelomiX4rYRwewCLcBGAsYHQ/s1600/css3.png",
+          "link": "https://www.youtube.com/embed/1PnVor36_40"
+        },
+        {
+          "id": "dadd",
+          "caption": "JavaScript",
+          "url": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png",
+          "link": "https://www.youtube.com/embed/W6NZfCO5SIk"
+        }
+      ]
+    },
+    {
+      "id": "c241",
+      "categoryName": "Trailers",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "6707",
+      "caption": "CSS",
+      "link": "https://www.youtube.com/embed/1PnVor36_40",
+      "timeStamp": "9/11/2024, 11:53:43 AM GMT+5:30"
+    }
+  ]
+}
